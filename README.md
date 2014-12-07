@@ -1,6 +1,8 @@
-## Build log
+![AirPair v1](https://www.airpair.com/v1/img/pages/index/ap-v1-screenshot-1.png)
 
-Is maintained at http://www.airpair.com/v1/
+## Build and story log
+
+Is maintained at https://www.airpair.com/v1/
 
 ## Most recent story log
 
