@@ -1,4 +1,4 @@
-![AirPair v1](https://www.airpair.com/v1/img/pages/index/ap-v1-screenshot-1.png)
+![AirPair v1](http://www.airpair.com/static/img/css/blog/example2.jpg)
 
 ## Build and story log
 
