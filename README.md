@@ -2,6 +2,8 @@
 
 ## Build and story log
 
+[![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/airpair/airpair-com-v1-issue-tracker?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 Is maintained at https://www.airpair.com/v1/
 
 ## Most recent story log
